@@ -1,0 +1,8 @@
+openai-whisper==20231117  
+pyaudio==0.2.14           
+soundfile==0.12.1         
+numpy==1.26.4             
+srt==3.5.0                 
+tqdm==4.66.5          
+requests==2.32.3              
+python-dotenv==1.0.1 
